@@ -23,7 +23,7 @@ numpy==1.18.4
 packaging==20.4
 Pillow==5.4.1
 pluggy==0.13.1
-py==1.8.1
+py==1.10.0
 pygraphviz==1.5
 pyparsing==2.4.7
 pytest==5.4.2
